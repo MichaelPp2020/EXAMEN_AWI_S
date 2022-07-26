@@ -1,0 +1,80 @@
+{
+    "producto": [
+      {
+      "codigo" : "0001",
+        "descripcion": "Atunes",
+        "unidad": "Caja",
+        "cantidad": "2",
+        "Proveedor": "Atuenes Isabel"
+     },
+  
+      {
+        "codigo" : "0002",
+          "descripcion": "cigarrillos",
+          "unidad": "Caja",
+          "cantidad": "10",
+          "Proveedor": "Malboro"
+     },
+     {
+        "codigo" : "0003",
+          "descripcion": "Huevos",
+          "unidad": "cubetas",
+          "cantidad": "100",
+          "Proveedor": "Huevos Casanova"
+     },
+     {
+      "codigo" : "0004",
+      "descripcion": "Cerveza",
+      "unidad": "cajas",
+      "cantidad": "1000",
+      "Proveedor": "Cerveceria Nacional"
+        
+        
+        
+        
+     },
+     {
+       "codigo" : "0005",
+         "descripcion": "tomates",
+         "unidad": "sacas",
+         "cantidad": "5",
+         "Proveedor": "Finca Lodana"
+     },
+     {
+        "codigo" : "0006",
+          "descripcion": "pollos",
+          "unidad": "cajas",
+          "cantidad": "100",
+          "Proveedor": "Pronaca"
+     },
+     {
+        "codigo" : "0007",
+          "descripcion": "Azucar",
+          "unidad": "sacas",
+          "cantidad": "500",
+          "Proveedor": " Compañía Azucarera Valdez "
+     },
+     {
+         "codigo" : "0008",
+           "descripcion": "Sal",
+           "unidad": "cajas",
+           "cantidad": "100",
+           "Proveedor": "SAL CRISAL"
+     },
+     {
+        "codigo" : "0009",
+          "descripcion": "Aceite",
+          "unidad": "botellas",
+          "cantidad": "1000",
+          "Proveedor": "La fabril"
+     },
+     {
+      "codigo" : "0010",
+      "descripcion": "cereales",
+      "unidad": "cajas",
+      "cantidad": "100",
+      "Proveedor": "kellogs"
+     }
+    ]
+}
+    
